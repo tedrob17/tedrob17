@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-UK%20Student-blue?style=flat-square" alt="UK Student" />
   <img src="https://img.shields.io/badge/-Developer-green?style=flat-square" alt="Developer" />
+  <a href="https://teddles.me" target="_blank"><img src="https://img.shields.io/badge/Website-teddles.me-purple?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 UK student passionate about coding and development. Currently learning **Node.js** and building cool projects!
@@ -39,8 +40,8 @@ An overview of the languages, frameworks, and databases I work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedrob17&show_icons=true&theme=tokyonight&count_private=true" alt="Ted's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedrob17&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tedrob17&show_icons=true&theme=tokyonight&count_private=true" alt="Ted's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tedrob17&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -48,6 +49,6 @@ An overview of the languages, frameworks, and databases I work with:
 ### 🤝 Connect with me
 
 <p align="left">
+  <a href="https://teddles.me" target="blank"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=chrome&logoColor=white" alt="Website" /></a>
   <a href="#" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
